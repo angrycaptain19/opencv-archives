@@ -23,7 +23,7 @@ ref = cv2.imread(args["reference"])
 # determine if we are performing multichannel histogram matching
 # and then perform histogram matching itself
 print("[INFO] performing histogram matching...")
-multi = True if src.shape[-1] > 1 else False
+multi = src.shape[-1] > 1
 matched = exposure.match_histograms(src, ref, multichannel=multi)
 
 # show the output images
