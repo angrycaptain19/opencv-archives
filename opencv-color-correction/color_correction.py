@@ -49,10 +49,8 @@ def find_color_card(image):
 	# matching card
 	cardCoords = np.array([topLeft, topRight,
 		bottomRight, bottomLeft])
-	card = four_point_transform(image, cardCoords)
-
 	# return the color matching card to the calling function
-	return card
+	return four_point_transform(image, cardCoords)
 
 # construct the argument parser and parse the arguments
 ap = argparse.ArgumentParser()

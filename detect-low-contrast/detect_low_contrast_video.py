@@ -18,7 +18,7 @@ args = vars(ap.parse_args())
 
 # grab a pointer to the input video stream
 print("[INFO] accessing video stream...")
-vs = cv2.VideoCapture(args["input"] if args["input"] else 0)
+vs = cv2.VideoCapture(args["input"] or 0)
 
 # loop over frames from the video stream
 while True:
