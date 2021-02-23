@@ -7,6 +7,8 @@ I often used to refer this blogs to get understand more about Computer Vision
 and of course Deep Learning. By refering to these blogsl; I shall implemeting it
 on my robotics journey!
 
-<a name="opencv">1</a>. OpenCV - OpenCV, https://opencv.org/
 
-<a name="pyimagesearch">2</a>. You can master Computer Vision, Deep Learning, and OpenCV, https://www.pyimagesearch.com/
+
+# Reference
+<a name="opencv">1</a>. OpenCV - OpenCV, https://opencv.org/
+<br /><a name="pyimagesearch">2</a>. You can master Computer Vision, Deep Learning, and OpenCV, https://www.pyimagesearch.com/
