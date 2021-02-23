@@ -2,6 +2,6 @@
 
 *DISCLAIMER*
 
-Here's a sentence with a footnote. [^1]
+<sup>[1](#myfootnote1)</sup>
 
-[^1]: This is the footnote.
+<a name="myfootnote1">1</a>: Footnote content goes here
