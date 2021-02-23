@@ -5,6 +5,7 @@
 often used to get understand more about Computer Vision and of course Deep Learning. By referring to these blogs; I shall implementing them on my robotics journey!
 
 **Table of Content**
+```
 ├── [AprilTag with Python]
 ├── [ArUco with OpenCV and Python]
 ├── [detect-low-contrast]
@@ -14,6 +15,7 @@ often used to get understand more about Computer Vision and of course Deep Learn
 ├── [opencv-color-matching]
 ├── [opencv-histogram-equalization]
 └── [video-augmented-reality]
+```
 
 **Reference**
 <br /><a name="opencv">1</a>. OpenCV - OpenCV, https://opencv.org/
