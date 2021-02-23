@@ -9,6 +9,6 @@ on my robotics journey!
 
 
 
-# Reference
+**Reference**
 <a name="opencv">1</a>. OpenCV - OpenCV, https://opencv.org/
 <br /><a name="pyimagesearch">2</a>. You can master Computer Vision, Deep Learning, and OpenCV, https://www.pyimagesearch.com/
